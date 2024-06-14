@@ -55,7 +55,7 @@
         }
     },
     "scripts": {
-        "start": "php -S localhost:8080 -t public",
+        "start": "php -S insightful-joy-production.up.railway.app -t public",
         "test": "phpunit"
     }
 }
